@@ -70,4 +70,3 @@ Our code is based on several repositories:
 - [CARLA Leaderboard](https://github.com/carla-simulator/leaderboard)
 - [Scenario Runner](https://github.com/carla-simulator/scenario_runner)
 - [Roach](https://github.com/zhejz/carla-roach)
--
